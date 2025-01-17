@@ -2,7 +2,7 @@
 A curated collection of educational resources for VIT-AP students across multiple subjects.
 Most of the PDFs are not originally mine; I've simply made some modifications to enhance their clarity and ease of understanding.
 
-vitap-study-materials
+# vitap-study-materials
 Welcome to the VIT-AP Educational Resources repository! This repository contains study materials, notes, and assignments across various subjects. Explore folders to find resources for your course.
 
 ## How to Use
