@@ -9,7 +9,7 @@ Welcome to the VIT-AP Educational Resources repository! This repository contains
 - Browse folders by subject.
 - Download files as needed.
 
-##Contributions
+## Contributions
 If you have valuable resources to share, feel free to reach out via email.
 
 I discovered most of these files in various random groups. If you'd like any of your own PDFs to be removed, please contact me at jayavanth18@gmail.com.
